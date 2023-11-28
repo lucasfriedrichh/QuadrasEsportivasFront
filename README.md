@@ -1,8 +1,8 @@
-# Sports Court Booking App
+# Quadras Esportivas
 
 ## Descrição do Projeto
 
-O Sports Court Booking App é uma aplicação React desenvolvida para facilitar o agendamento de quadras esportivas. Este projeto utiliza uma API construída em Kotlin para gerenciar as operações de cadastro, atualização, exclusão e consulta de informações relacionadas às quadras esportivas.
+O Quadras Esportivas é uma aplicação React desenvolvida para facilitar o agendamento de quadras esportivas. Este projeto utiliza uma API construída em Kotlin para gerenciar as operações de cadastro, atualização, exclusão e consulta de informações relacionadas às quadras esportivas.
 
 ## Funcionalidades Principais
 
